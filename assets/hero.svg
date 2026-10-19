@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Renewable Energy — TFN-PV</title>
+  <desc id="desc">A dark solar-themed research banner. Forecasting photovoltaic power from 30 minutes to 24 hours ahead. The curves are conceptual illustrations, not experimental results.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1524"/><stop offset="1" stop-color="#112e38"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#f3b65a" stop-opacity=".28"/><stop offset="1" stop-color="#f3b65a" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sun" x2=".7" y2="1"><stop stop-color="#ffe5a3"/><stop offset="1" stop-color="#f3a64a"/></linearGradient>
+    <linearGradient id="area" x2="0" y2="1"><stop stop-color="#65dfc3" stop-opacity=".22"/><stop offset="1" stop-color="#65dfc3" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#93c8cf" stroke-opacity=".05"/></pattern>
+    <clipPath id="round"><rect width="1280" height="460" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="460" fill="url(#bg)"/>
+    <rect width="1280" height="460" fill="url(#grid)"/>
+    <circle cx="1030" cy="150" r="220" fill="url(#halo)"/>
+    <path d="M0 418C290 365 390 468 650 422S1020 335 1280 390V460H0Z" fill="#102831"/>
+    <rect x="54" y="50" width="6" height="19" rx="3" fill="#65dfc3"/>
+    <text x="74" y="65" fill="#9fb8c9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">RESEARCH / INTELLIGENT ENERGY SYSTEMS</text>
+    <text x="54" y="150" fill="#f1f7fb" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Renewable</text>
+    <text x="54" y="217" fill="#65dfc3" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Energy.</text>
+    <text x="57" y="262" fill="#d0dce6" font-family="Arial, Helvetica, sans-serif" font-size="20">Five horizons. One solar forecasting framework.</text>
+    <text x="57" y="295" fill="#8ea7b9" font-family="Arial, Helvetica, sans-serif" font-size="16">Temporal Fusion Transformer + N-BEATS</text>
+    <rect x="56" y="337" width="100" height="35" rx="17.5" fill="#65dfc3"/>
+    <text x="106" y="360" text-anchor="middle" fill="#10232b" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">TFN-PV</text>
+    <rect x="170" y="337" width="217" height="35" rx="17.5" fill="#f3b65a" fill-opacity=".09" stroke="#f3b65a" stroke-opacity=".45"/>
+    <text x="278.5" y="360" text-anchor="middle" fill="#f3c67f" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">PAPER SUBMITTED · EPSR</text>
+    <g stroke="#f3b65a" stroke-opacity=".17" fill="none">
+      <circle cx="1030" cy="140" r="82"/>
+      <circle cx="1030" cy="140" r="108" stroke-dasharray="3 10"/>
+      <path d="M1030 14V31M1030 249V266M904 140H921M1139 140H1156M941 51L953 63M1107 217L1119 229M941 229L953 217M1107 63L1119 51"/>
+    </g>
+    <circle cx="1030" cy="140" r="56" fill="url(#sun)"/>
+    <g transform="translate(700 149)">
+      <path d="M0 196H500M0 137H500M0 78H500" stroke="#87b8bd" stroke-opacity=".13" stroke-dasharray="4 7"/>
+      <path d="M0 196C35 194 53 164 78 169S116 127 148 138S190 64 222 79S268 38 302 54S346 93 378 85S429 128 459 119S485 133 500 127V208H0Z" fill="url(#area)"/>
+      <path d="M0 196C35 194 53 164 78 169S116 127 148 138S190 64 222 79S268 38 302 54S346 93 378 85S429 128 459 119S485 133 500 127" fill="none" stroke="#65dfc3" stroke-width="4" stroke-linecap="round"/>
+      <path d="M0 190C45 188 67 177 95 156S137 158 166 123S201 76 233 87S275 43 308 63S355 94 388 93S437 122 466 126S489 130 500 140" fill="none" stroke="#f3b65a" stroke-width="2.5" stroke-dasharray="7 7" stroke-linecap="round"/>
+      <g fill="#65dfc3" stroke="#10232b" stroke-width="3"><circle cx="78" cy="169" r="6"/><circle cx="148" cy="138" r="6"/><circle cx="222" cy="79" r="6"/><circle cx="302" cy="54" r="6"/><circle cx="459" cy="119" r="6"/></g>
+      <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#c2d3de" text-anchor="middle">
+        <text x="20" y="238">30 min</text><text x="131" y="238">2 h</text><text x="247" y="238">6 h</text><text x="363" y="238">12 h</text><text x="480" y="238">24 h</text>
+      </g>
+    </g>
+    <path d="M56 406H1224" stroke="#80bbc5" stroke-opacity=".16"/>
+    <text x="57" y="435" fill="#89a6b6" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">PHOTOVOLTAICS / MULTI-HORIZON LEARNING / EXPLAINABLE AI</text>
+    <text x="1224" y="435" fill="#728e9e" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="end">CONCEPTUAL FORECAST ILLUSTRATION</text>
+  </g>
+</svg>
