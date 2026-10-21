@@ -7,6 +7,7 @@
 [![arXiv: 2610.27155](https://img.shields.io/badge/arXiv-2610.27155-b31b1b?style=for-the-badge&labelColor=111c2b)](https://arxiv.org/abs/2610.27155)
 [![Paper: submitted to EPSR](https://img.shields.io/badge/PAPER-SUBMITTED_TO_EPSR-f3b65a?style=for-the-badge&labelColor=111c2b)](#paper)
 [![Model: TFT + N-BEATS](https://img.shields.io/badge/MODEL-TFT_%2B_N--BEATS-65dfc3?style=for-the-badge&labelColor=111c2b)](#architecture)
+[![License: MIT](https://img.shields.io/badge/LICENSE-MIT-65dfc3?style=for-the-badge&labelColor=111c2b)](LICENSE)
 [![Code: coming soon](https://img.shields.io/badge/CODE-COMING_SOON-a8b8d0?style=for-the-badge&labelColor=111c2b)](#release-roadmap)
 
 ### One framework. Five horizons. A clearer view of solar power.
@@ -170,6 +171,12 @@ The preprint is available on [arXiv](https://arxiv.org/abs/2610.27155). Journal 
 - [ ] Model checkpoints and usage documentation
 - [x] Shareable arXiv preprint link
 - [ ] Journal publication and final citation details
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright © 2026 Sabik Bin Sultan.
 
 ## Follow the research
 
