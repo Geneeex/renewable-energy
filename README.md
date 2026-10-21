@@ -4,6 +4,7 @@
 
 <br />
 
+[![arXiv: 2610.27155](https://img.shields.io/badge/arXiv-2610.27155-b31b1b?style=for-the-badge&labelColor=111c2b)](https://arxiv.org/abs/2610.27155)
 [![Paper: submitted to EPSR](https://img.shields.io/badge/PAPER-SUBMITTED_TO_EPSR-f3b65a?style=for-the-badge&labelColor=111c2b)](#paper)
 [![Model: TFT + N-BEATS](https://img.shields.io/badge/MODEL-TFT_%2B_N--BEATS-65dfc3?style=for-the-badge&labelColor=111c2b)](#architecture)
 [![Code: coming soon](https://img.shields.io/badge/CODE-COMING_SOON-a8b8d0?style=for-the-badge&labelColor=111c2b)](#release-roadmap)
@@ -12,7 +13,7 @@
 
 A research home for **TFN-PV**, a hybrid deep learning framework for interpretable, multi-horizon photovoltaic power forecasting.
 
-**[Explore the research](#research-at-a-glance)** · **[View the architecture](#architecture)** · **[See the results](#reported-results)** · **[Open the demo Space](https://huggingface.co/spaces/rocky250/Re-Energy)**
+**[Read the paper](https://arxiv.org/abs/2610.27155)** · **[Explore the research](#research-at-a-glance)** · **[View the architecture](#architecture)** · **[See the results](#reported-results)** · **[Open the demo Space](https://huggingface.co/spaces/rocky250/Re-Energy)**
 
 </div>
 
@@ -153,9 +154,9 @@ Shafi Bin Sultan*, Sabik Bin Sultan*, Mohammad Tajrian Arafat Alvi, Rayhanul Isl
 | **Journal** | [Electric Power Systems Research](https://www.sciencedirect.com/journal/electric-power-systems-research) |
 | **Publisher** | Elsevier |
 | **Status** | **Submitted** |
-| **Paper access** | Manuscript and publication link to be added when available for sharing |
+| **Paper access** | [Read the arXiv preprint — arXiv:2610.27155](https://arxiv.org/abs/2610.27155) |
 
-Publication details and a formal citation will be added when available.
+The preprint is available on [arXiv](https://arxiv.org/abs/2610.27155). Journal publication details and the final citation will be added when available.
 
 ## Release roadmap
 
@@ -167,7 +168,8 @@ Publication details and a formal citation will be added when available.
 - [ ] Experiment configurations, baselines, and evaluation scripts
 - [ ] Reproducible notebooks and example forecasts
 - [ ] Model checkpoints and usage documentation
-- [ ] Shareable paper link and citation details
+- [x] Shareable arXiv preprint link
+- [ ] Journal publication and final citation details
 
 ## Follow the research
 
